@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lomeda-Joshua
-- 👀 I’m interested in Front End Development and Java application development
-- 🌱 I’m currently learning Front End technologies like MERN (Mongo Express, React, Node JS).
-- 📫 You can reach me out on this email joshualomeda.e14@gmail.com
+- 👀 I’m interested in Front End and Java application development
+- 🌱 I’m currently learning Front End technologies like MERN (Mongo Express, React, Node JS) since I wanted to familiarize myself in UI and UX development as well as content and art design practice.
+
 
