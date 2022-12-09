@@ -1,5 +1,5 @@
 - 👋 Hi, names Joshua Lomeda
-- 🌱 I’m currently learning and building projects for React library and Native for web development. <span>I'm also learning Java and C++ for system development </span>
+- 🌱 I’m currently learning and building projects for the React library and Native for web development. <span>I'm also learning Java and C++ for system development </span>
 - 📫 For anyone checking my profile you can reach me here at my gmail joshualomeda.e14@gmail.com
 
 <!---
