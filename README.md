@@ -1,6 +1,7 @@
 - 👋 Hi, names Joshua!
-- 🌱 I’m building projects and learning the React library for web development projects. <span>I'm also learning Java for system's development</span>
-- 📫 You can check my public repos and projects in thie profile for your reference. You can reach me here at my gmail joshualomeda.e14@gmail.com
+- 🌱 Currently learning and building projects from the React library for web development application. My profile may be not that much for now but consistent reading, practicing, and improvement will fill this up and show off some of my skills in the future.
+- Thanks for stopping by!
+
 
 <!---
 Lomeda-Joshua/Lomeda-Joshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
