@@ -1,6 +1,6 @@
 - 👋 Hi, names Joshua!
 - 🌱 Currently learning and building projects from the React library for web development application. My profile may be not that much for now but consistent reading, practicing, and improvement will fill this up and show off some of my skills in the future.
-- Thanks for stopping by!
+<h1><span>Thanks for stopping by!</span></h1>
 
 
 <!---
