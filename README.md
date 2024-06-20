@@ -4,7 +4,7 @@
 Here are some of small sample projects that demonstrates my understanding with the React library and Javascript programming:<br>
 
 Customer Satisfaction Form Application:
-![Login](assets/login.png)
+![Login](assets/login.PNG)
 
 Currently working on this project:
 <br>[Film-info project](https://lomeda-joshua.github.io/film-info/).
