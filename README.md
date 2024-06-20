@@ -4,14 +4,13 @@
 Here are some of small sample projects that demonstrates my understanding with the React library and Javascript programming:<br>
 
 Customer Satisfaction Form Application:
-<img src="assets/login.png" width="400" />
+![Login](assets/login.png)
 
 Currently working on this project:
 <br>[Film-info project](https://lomeda-joshua.github.io/film-info/).
 
 Capstone projects that I am still working on:
 <br>[BPI Locator's map](https://lomeda-joshua.github.io/locators-map/).
-
 <!---
 Lomeda-Joshua/Lomeda-Joshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
