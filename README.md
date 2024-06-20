@@ -4,14 +4,14 @@
 Here are some of small sample projects that demonstrates my understanding with the React library and Javascript programming:<br>
 
 Projects being worked on:
-<br>[Film-info project](https://lomeda-joshua.github.io/film-info/).
-<img src="assets/film-info.png" width="400" alt="login-image"/>
+<br>[Film-info project](https://lomeda-joshua.github.io/film-info/). <br>
+<img src="assets/film-info.png" width="400" alt="login-image" />
 
-<br>[BPI Locator's map](https://lomeda-joshua.github.io/locators-map/).
-<img src="assets/Locators-map.PNG" width="400" alt="login-image"/>
+<br>[BPI Locator's map](https://lomeda-joshua.github.io/locators-map/). <br>
+<img src="assets/Locators-map.PNG" width="400" alt="login-image" />
 
 Customer Satisfaction Form Application: <br>
-<img src="assets/login.PNG" width="400" alt="login-image"/>
+<img src="assets/login.PNG" width="400" alt="login-image" />
 
 
 <!---
