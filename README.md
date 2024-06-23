@@ -8,7 +8,7 @@ Projects being worked on:
 <img src="assets/film-info.png" width="400" alt="login-image" />
 
 <br>[BPI Locator's map](https://lomeda-joshua.github.io/locators-map/). <br>
-<img src="assets/Locators-map.PNG" width="400" alt="login-image" />
+<img src="assets/Locators-map2.PNG" width="400" alt="login-image" />
 
 Customer Satisfaction Form Application: <br>
 <img src="assets/login.PNG" width="400" alt="login-image" />
