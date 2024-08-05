@@ -12,7 +12,13 @@ Projects being worked on:
 <img src="assets/Locators-map2.PNG" width="400" alt="login-image" />
 
 <br>Customer Satisfaction Form Application:<br>
-<img src="assets/login.PNG" width="400" alt="login-image" />
+<img src="assets/bpi-csf/login.PNG" width="400" alt="login-image" />
+<img src="assets/bpi-csf/admin dashboard.PNG" width="400" alt="login-image" />
+<img src="assets/bpi-csf/control number.PNG" width="400" alt="login-image" />
+<img src="assets/bpi-csf/office details.PNG" width="400" alt="login-image" />
+<img src="assets/bpi-csf/personnel list.PNG" width="400" alt="login-image" />
+<img src="assets/bpi-csf/profile.PNG" width="400" alt="login-image" />
+<img src="assets/bpi-csf/summary interface.PNG" width="400" alt="login-image" />
 
 
 <!---
