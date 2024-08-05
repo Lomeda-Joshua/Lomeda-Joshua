@@ -1,4 +1,4 @@
-👋 <h2 style="text-align:center"> Hi, names Josh!</h2>
+👋 Hi, names Josh!
 
 🌱 Currently learning and building projects from the React library for web development application. I am also building projects for web development from Laravel which is a PHP framework. Will be learning C# in the future for reliable, and stable desktop applications. 
 
