@@ -1,5 +1,5 @@
 # 👋 Hi, names Josh!
-🔭I'm an aspiring web developer focused on using Laravel for backend developement and React for frontend development. In the near future, I plan to explore systems development using Rust to build reliable and stable desktop applications, as well as 🚀venture into machine learning. Cheers 🍻 to future tech endeavors! 
+🔭I'm an aspiring web developer focused on using Laravel for backend developement and React for frontend development. In the future, I plan to explore systems development using Rust to build reliable and stable desktop applications, as well as 🚀venture into machine learning. Cheers 🍻 to future tech endeavors! 
 
 <br>Here are some of small sample projects that demonstrates my understanding and being worked on: <br>
 🎞️ [Film-info project](https://lomeda-joshua.github.io/film-info/). <br>
