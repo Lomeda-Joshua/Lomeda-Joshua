@@ -1,5 +1,5 @@
 # 👋 Hi, names Josh!
-🔭I'm an aspiring web developer focused on using Laravel for backend developement and React for frontend development. In the future, I plan to explore systems development using Rust to build reliable and stable desktop applications, as well as 🚀venture into machine learning. Cheers 🍻 to future tech endeavors! 
+A developer who uses php for backend development with experience on using Laravel for scaled web application. Exploring systems development using Rust to build scalable desktop applications and venturing into machine learning.
 
 # 💻 Tech Stack:
 
