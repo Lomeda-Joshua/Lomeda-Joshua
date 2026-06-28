@@ -1,12 +1,15 @@
 
 
-# Joshua (Josh)
+# Josh
 
 > Backend Software Developer specializing in **PHP** and **Laravel**, building internal business applications and information management systems.
 
 ---
 
-![Alt text](assets/github_banner.png)
+<p align="center">
+  <img src="assets/github_banner.png" alt="GitHub Banner" width="60%">
+</p>
+
 
 # About Me
 
@@ -115,5 +118,3 @@ Rather than chasing every new framework, I focus on understanding software funda
 # Let's Connect
 
 I'm always interested in collaborating with projects that now involve real world application of codes and technologies especially on the field of business.
-
----
