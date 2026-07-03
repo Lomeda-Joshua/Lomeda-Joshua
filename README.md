@@ -74,10 +74,6 @@ Enterprise inventory platform built with Laravel and PostgreSQL featuring RBAC, 
 
 Customized enterprise document management platform using SeedDMS with workflow automation, access control, and document categorization.
 
-## 🏛 Citizen Information System
-
-Laravel-based government information system supporting citizen records, senior citizen services, and benefits management.
-
 ## 📊 Customer Satisfaction System
 
 Internal Laravel application replacing manual paper-based customer feedback collection with centralized digital management.
