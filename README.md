@@ -1,11 +1,3 @@
-
-
-# Josh
-
-> Backend Software Developer specializing in **PHP** and **Laravel**, building internal business applications and information management systems.
-
----
-
 <p align="center">
   <img src="assets/github_banner.png" alt="GitHub Banner" width="60%">
 </p>
