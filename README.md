@@ -23,16 +23,16 @@ Currently, I'm expanding my knowledge into **Docker**, **Python**, **System Desi
 
 ### Backend
 
-- PHP
-- Laravel
-- REST APIs
-- MVC
-- Eloquent ORM
+![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/REST_APIs-0055DA?style=flat)
+![](https://img.shields.io/badge/MVC-000000?style=flat)
+![](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### Database
 
-- MySQL
-- PostgreSQL
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 </td>
 
@@ -40,15 +40,15 @@ Currently, I'm expanding my knowledge into **Docker**, **Python**, **System Desi
 
 ### Infrastructure
 
-- Git
-- Linux
-- Apache
-- Docker *(Learning)*
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![](https://img.shields.io/badge/Docker_(Learning)-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Cloud
 
-- AWS EC2
-- Alibaba Cloud ECS
+![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
 
 </td>
 </tr>
@@ -106,3 +106,6 @@ Rather than chasing every new framework, I focus on understanding software funda
 # Let's Connect
 
 I'm always interested in collaborating with projects that now involve real world application of codes and technologies especially on the field of business.
+
+<!-- Simple Badge View Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=lomeda-joshua&color=7952B3&style=for-the-badge&label=PROFILE+VIEWS)
