@@ -3,7 +3,7 @@
 </p>
 
 
-# About Me
+# About
 
 I'm a backend developer with professional experience building web applications for government agencies and private organizations using **PHP**, **Laravel**, and **SQL**.
 
